@@ -1,0 +1,47 @@
+{
+    "budgets": [],
+    "categories": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "expenses": [],
+    "incomes": [],
+    "recurringTransactions": [],
+    "savingsGoals": [],
+    "timestamp": [
+        50,
+        48,
+        50,
+        53,
+        45,
+        48,
+        55,
+        45,
+        51,
+        48,
+        32,
+        48,
+        48,
+        58,
+        50,
+        55,
+        58,
+        52,
+        48
+    ],
+    "users": [],
+    "version": [
+        49,
+        46,
+        48,
+        46,
+        48
+    ]
+}

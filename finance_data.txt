@@ -1,0 +1,6 @@
+EXPENSES:
+07/27/2025|bills|2400|mortgage
+07/27/2025|bills|120|wifi
+INCOME:
+07/27/2025|VA|3800|disability
+07/27/2025|Tahani|3600|RDA pay
